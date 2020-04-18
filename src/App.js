@@ -46,7 +46,7 @@ class App extends Component {
         {
           name: "series-1",
           type: "line",
-          data: [30, 40, 25, 50, 49, 21, 70, 51]
+          data: [5, 40, 25, 50, 49, 21, 70, 51]
         },
         {
           name: "series-2",
